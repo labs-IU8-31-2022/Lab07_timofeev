@@ -1,5 +1,7 @@
-using animal;
+namespace animal;
+using attribute;
 
+[My("Свинья на ферме")]
 class Pig : Animal
 {
     public Pig(string country, bool hide, string name, eClassificationAnimal clas) : base(country, hide, name, clas) {}

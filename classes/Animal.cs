@@ -1,22 +1,23 @@
 ﻿using attribute;
 
 namespace animal;
-enum eClassificationAnimal
+
+public enum eClassificationAnimal
 {
     Herbivores,
     Carnivores,
     Omnivores
 }
 
-enum eFavoriteFood
+public enum eFavoriteFood
 {
     Meat,
     Plants,
     Everything
 }
 
-[MyAttribute("abstract")]
-abstract class Animal
+[My("abstract")]
+public abstract class Animal
 {
     public string Country;
     public bool HideFromOtherAnimals;
