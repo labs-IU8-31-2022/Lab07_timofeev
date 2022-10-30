@@ -1,4 +1,4 @@
-name: XNL
+name: XML
 on: [workflow_dispatch]
 
 jobs:
