@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classes", "classes\classes.csproj", "{AD0F07BC-BA93-42E7-9E34-0C66EA7CB1BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diagram", "diagram\diagram.csproj", "{49DAB170-C4C4-46EF-BC8B-E549414135AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diagram", "diagram\diagram.csproj", "{FB63EAC9-EC19-4612-9998-925F2BABA0E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{AD0F07BC-BA93-42E7-9E34-0C66EA7CB1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD0F07BC-BA93-42E7-9E34-0C66EA7CB1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD0F07BC-BA93-42E7-9E34-0C66EA7CB1BA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49DAB170-C4C4-46EF-BC8B-E549414135AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49DAB170-C4C4-46EF-BC8B-E549414135AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49DAB170-C4C4-46EF-BC8B-E549414135AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49DAB170-C4C4-46EF-BC8B-E549414135AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB63EAC9-EC19-4612-9998-925F2BABA0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB63EAC9-EC19-4612-9998-925F2BABA0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB63EAC9-EC19-4612-9998-925F2BABA0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB63EAC9-EC19-4612-9998-925F2BABA0E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
